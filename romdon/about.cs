@@ -17,7 +17,7 @@ namespace romdon
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            var url = "https://github.com/zyx-2011/-/tree/main/romdon";
+            var url = "https://github.com/zyx-2011/random_name";
 
             try
             {
